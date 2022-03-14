@@ -114,4 +114,4 @@ buildNumber.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/eclipse,java,maven
 
-token_acceso_github
+token_acceso_github.txt
